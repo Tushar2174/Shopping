@@ -1,1 +1,1 @@
-# Shopping
+The realm of e-commerce continues to redefine the way we shop, presenting convenient avenues for purchasing goods and services from the comfort of our homes. In line with this trend, the Java-based online shopping application presented here offers a robust platform for users to browse, select, and purchase items through an intuitive graphical interface.
